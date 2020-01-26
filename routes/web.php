@@ -78,6 +78,7 @@ Route::group(['middleware' => ['auth']], function(){
         Route::get('/cliente', 'ClienteController@index')->name('index');
         Route::post('/cliente/registrar', 'ClienteController@store')->name('registrar');
         Route::put('/cliente/actualizar', 'ClienteController@update')->name('actualizar');
+        Route::delete('/cliente/actualizar', 'ClienteController@update')->name('actualizar');
     });
    
 
