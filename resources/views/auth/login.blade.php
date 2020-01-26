@@ -36,6 +36,7 @@
               <p>Password: secret</p>
 
               <a href="#" target="_blank" class="btn btn-primary active mt-3">emiliano.0218@gmail.com</a>
+              <a href="https://github.com/Emiliano-AL/vendedor" target="_blank" class="btn btn-primary active mt-3">Repositorio</a>
             </div>
           </div>
         </div>
