@@ -31,9 +31,11 @@
         <div class="card text-white bg-primary py-5 d-md-down-none" style="width:44%">
           <div class="card-body text-center">
             <div>
-              <h2>Sistema de Ventas IncanatoIT</h2>
-              <p>Sistema de compras, Ventas desarrollado en PHP utilizando el Framework Laravel y Vue Js, con el gestor de base de datos MariaDB.</p>
-              <a href="https://www.udemy.com/user/juan-carlos-arcila-diaz/" target="_blank" class="btn btn-primary active mt-3">Ver el curso!</a>
+              <h2>Sistema de Ventas</h2>
+              <p>Usuario: Admin</p>
+              <p>Password: secret</p>
+
+              <a href="#" target="_blank" class="btn btn-primary active mt-3">emiliano.0218@gmail.com</a>
             </div>
           </div>
         </div>
